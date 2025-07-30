@@ -1,4 +1,4 @@
-# Open-Source-Contributions
+# Open Source Contributions
 
 Request to Add ArcGIS Badge to "Spatial software"
 
