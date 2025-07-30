@@ -38,3 +38,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile/pull/771
 ```
 
 # Contributions on Ovio
+
+# Other Open-Source Contributions
+
+Currently, I contribute to an app called MapSwipe.
