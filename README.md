@@ -10,26 +10,31 @@ Many repos on GitHub are open-source, meaning that GitHub members have the abili
 
 ## Badges4-README.md-Profile
 
-**Repo Info:** 
+[Link to original repo](https://github.com/alexandresanlim/Badges4-README.md-Profile) | [Link to forked repo in my profile](https://github.com/Francis-Calingo/Badges4-README.md-Profile)
 
-**Tools/Languages Used:**
+**Repo Info:** This repo serves as a place to find special-made badges for a wide variety of technical tools, ranging from programming languages (e.g., Python, Ruby) to communication tools (e.g., Gmail, MS Outlook) to Cloud technology (e.g., Azure, Oracle). These badges are special made for GitHub READMEs and can enhance the visual appeal of one's GitHub profile (see my profile repo for examples). 
 
-**Summary of Contribution:**
+**Tools/Languages Used:** Markdown
 
-**Impact:**
+**Summary of Contribution:** The section "Spatial Software" did not include "ArcGIS", even though there exist a GitHub badge for ArcGIS. I therefore took it upon myself to fork the repo, add the badge, then submit a pull request.
+
+**Impact:** The pull request was accepted, and is now part of the main repo. Users who have used ArcGIS and/or have working knowledge of it will now be able to use that badge template to add to their GitHub profile.
 
 **Details of Contribution:**
 
 Request to Add ArcGIS Badge to "Spatial software"
 
+[Link to my pull request](https://github.com/alexandresanlim/Badges4-README.md-Profile/pull/771)
 
-https://github.com/Francis-Calingo/Badges4-README.md-Profile/commit/21c48b499e8397af222ed54f96d98d505a2d92e2
+[Link to commit authored by repo owner, merging my pull request to the original repo](https://github.com/Francis-Calingo/Badges4-README.md-Profile/commit/21c48b499e8397af222ed54f96d98d505a2d92e2)
 
-https://github.com/alexandresanlim/Badges4-README.md-Profile/pull/771
+My suggested modification:
 
 ```
 + | <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?&style=for-the-badge&logo=arcgis&logoColor=fff">               | `https://img.shields.io/badge/ArcGIS-2C7AC3?&style=for-the-badge&logo=arcgis&logoColor=fff`    |
 ```
+
+Markdown code for the "Spatial Software" section after my modification:
 
 ```markdown
 | Badge                                                                                                               | URL                                                                                                       |
@@ -38,6 +43,9 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile/pull/771
 | <img src="https://img.shields.io/badge/qgis-3.28_firenze-93b023?&style=for-the-badge&logo=qgis&logoColor=white">    | `https://img.shields.io/badge/qgis-3.28_firenze-93b023?&style=for-the-badge&logo=qgis&logoColor=white`    |
 | <img src="https://img.shields.io/badge/qgis-3.22_białowieża-93b023?&style=for-the-badge&logo=qgis&logoColor=white"> | `https://img.shields.io/badge/qgis-3.22_białowieża-93b023?&style=for-the-badge&logo=qgis&logoColor=white` |
 ```
+
+Result:
+
 
 # Contributions on Ovio
 
