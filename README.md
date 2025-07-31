@@ -24,9 +24,7 @@ Many repos on GitHub are open-source, meaning that GitHub members have the abili
 
 Request to Add ArcGIS Badge to "Spatial software"
 
-[Link to my pull request](https://github.com/alexandresanlim/Badges4-README.md-Profile/pull/771)
-
-[Link to commit authored by repo owner, merging my pull request to the original repo](https://github.com/Francis-Calingo/Badges4-README.md-Profile/commit/21c48b499e8397af222ed54f96d98d505a2d92e2)
+[Link to my pull request](https://github.com/alexandresanlim/Badges4-README.md-Profile/pull/771) | [Link to commit authored by repo owner, merging my pull request to the original repo](https://github.com/Francis-Calingo/Badges4-README.md-Profile/commit/21c48b499e8397af222ed54f96d98d505a2d92e2)
 
 My suggested modification:
 
