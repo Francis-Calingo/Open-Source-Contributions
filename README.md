@@ -28,7 +28,7 @@ Request to Add ArcGIS Badge to "Spatial software"
 
 My suggested modification:
 
-```
+```diff
 + | <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?&style=for-the-badge&logo=arcgis&logoColor=fff">               | `https://img.shields.io/badge/ArcGIS-2C7AC3?&style=for-the-badge&logo=arcgis&logoColor=fff`    |
 ```
 
