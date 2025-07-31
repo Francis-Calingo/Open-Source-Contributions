@@ -48,6 +48,25 @@ Result:
 
 # Contributions on Ovio
 
+Ovio is an online platform that connects developers with potential open-source contributors. In other words, it is a platform that allows one to contribute to real-world projects similar to how GitHub users can contribute to open-source repos.
+
+***No updates as of July 30, 2025***
+
 # Other Open-Source Contributions
 
-Currently, I contribute to an app called MapSwipe.
+Currently, I contribute to an app called [MapSwipe](https://mapswipe.org/en/blogs/2023-08-22-investing-in-mapswipe/). MapSwipe is an open-source online platform that allows users to contribute to mapping efforts worldwide. By finding, comparing, and validating maps and Earth imagery, the users have an immensely positive geospatial impact in the realm of data for good such as humanitarian relief.
+
+[Link to my contribution statistics](https://community.mapswipe.org/user/nvxRJMNGAgYWsEr7nRCor8YYbTm2/)
+
+Summary of contributions:
+
+| Metric  | Score |
+| ------------- | ------------- |
+| Number of swipes  | 155  |
+| Total time spent swiping  | 6m 55s  |
+| Total area swiped (sq. km)  | 19  |
+| Total projects  | 2  |
+| Organizations supported  | 1  |
+| User groups joined  | 0  |
+
+*Updated as of July 30, 2025*
