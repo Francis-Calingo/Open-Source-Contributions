@@ -2,7 +2,7 @@
 
 This repo lists all of my contributions to open-source projects and endeavours. Open-source projects are projects that are available for members of the public to duplicate and modify (with permission). This is a great way for people who would like to work in the data industry to gain expereince in contributing to projects, especially since many roles will involve working collaboratively in teams.
 
-***UPDATED AS OF AUGUST 03, 2025***
+***UPDATED AS OF AUGUST 04, 2025***
 
 # Contributions on GitHub Repos
 
@@ -50,7 +50,7 @@ Result:
 
 Ovio is an online platform that connects developers with potential open-source contributors. In other words, it is a platform that allows one to contribute to real-world projects similar to how GitHub users can contribute to open-source repos.
 
-***No updates as of August 03, 2025***
+***No updates as of August 04, 2025***
 
 # Other Open-Source Contributions
 
@@ -62,11 +62,11 @@ Summary of contributions:
 
 | Metric  | Score |
 | ------------- | ------------- |
-| Number of swipes  | 329  |
-| Total time spent swiping  | 14m 2s  |
-| Total area swiped (sq. km)  | 33  |
-| Total projects  | 5 |
+| Number of swipes  | 417  |
+| Total time spent swiping  | 17m 33s  |
+| Total area swiped (sq. km)  | 40  |
+| Total projects  | 7 |
 | Organizations supported  | 3  |
 | User groups joined  | 0  |
 
-***Updated as of August 03, 2025***
+***Updated as of August 04, 2025***
