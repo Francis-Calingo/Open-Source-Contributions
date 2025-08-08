@@ -2,7 +2,7 @@
 
 This repo lists all of my contributions to open-source projects and endeavours. Open-source projects are projects that are available for members of the public to duplicate and modify (with permission). This is a great way for people who would like to work in the data industry to gain expereince in contributing to projects, especially since many roles will involve working collaboratively in teams.
 
-***UPDATED AS OF AUGUST 07, 2025***
+***UPDATED AS OF AUGUST 08, 2025***
 
 # Contributions on GitHub Repos
 
@@ -50,11 +50,11 @@ Result:
 
 Ovio is an online platform that connects developers with potential open-source contributors. In other words, it is a platform that allows one to contribute to real-world projects similar to how GitHub users can contribute to open-source repos.
 
-***No updates as of August 07, 2025***
+***No updates as of August 08, 2025***
 
 # Other Open-Source Contributions
 
-Currently, I contribute to an app called [MapSwipe](https://mapswipe.org/en/blogs/2023-08-22-investing-in-mapswipe/). MapSwipe is an open-source online platform that allows users to contribute to mapping efforts worldwide. By finding, comparing, and validating maps and Earth imagery, the users have an immensely positive geospatial impact in the realm of data for good such as humanitarian relief.
+Currently, I contribute to an app called [MapSwipe](https://mapswipe.org/en/blogs/2023-08-22-investing-in-mapswipe/). MapSwipe is an open-source online platform that allows users to contribute to mapping efforts worldwide. By finding, comparing, and validating maps and Earth imagery--which trains the algorithm into recognizing proper satellite imagery, the users have an immensely positive geospatial impact in the realm of data for good such as humanitarian relief.
 
 [Link to my contribution statistics](https://community.mapswipe.org/user/nvxRJMNGAgYWsEr7nRCor8YYbTm2/)
 
@@ -62,11 +62,11 @@ Summary of contributions:
 
 | Metric  | Score |
 | ------------- | ------------- |
-| Number of swipes  | 676  |
-| Total time spent swiping  | 27m 49s  |
-| Total area swiped (sq. km)  | 279  |
-| Total projects  | 12 |
+| Number of swipes  | 754  |
+| Total time spent swiping  | 29m 43s  |
+| Total area swiped (sq. km)  | 300  |
+| Total projects  | 14 |
 | Organizations supported  | 4  |
 | User groups joined  | 0  |
 
-***Updated as of August 07, 2025***
+***Updated as of August 08, 2025***
